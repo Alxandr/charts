@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   dnsimple-cron-updater:
   - apiVersion: v2
+    appVersion: 0.2.2
+    created: "2021-03-01T19:14:23.033721156Z"
+    description: A Helm chart for running dnsimple-updater as a cron job
+    digest: 1522d80da82acbd9bde612913cd6c22a2087b3a2226d79caa86a588e8968ccbe
+    name: dnsimple-cron-updater
+    type: application
+    urls:
+    - https://github.com/Alxandr/dnsimple-updater/releases/download/dnsimple-cron-updater-0.2.2/dnsimple-cron-updater-0.2.2.tgz
+    version: 0.2.2
+  - apiVersion: v2
     appVersion: 0.2.1
     created: "2021-03-01T18:41:04.994724007Z"
     description: A Helm chart for running dnsimple-updater as a cron job
@@ -41,4 +51,4 @@ entries:
     urls:
     - https://github.com/Alxandr/dnsimple-updater/releases/download/dnsimple-cron-updater-0.1.40/dnsimple-cron-updater-0.1.40.tgz
     version: 0.1.40
-generated: "2021-03-01T18:41:04.994845607Z"
+generated: "2021-03-01T19:14:23.033753457Z"
